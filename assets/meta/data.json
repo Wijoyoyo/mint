@@ -1,5 +1,41 @@
 {
-  "name": "The Bee Collaborative",
-  "description": "Fundraiser for TBC Token | Bee rewarded to save the Bees!",
-  "image": "https://gateway.pinata.cloud/ipfs/Qmb6CupiWhMBM6hxTXFu7Fahj2scxxL9pvs9Sbnu5DK359"
+  "dna": "61a45d3d08b5d2d10622551423ed17e7232ffbea",
+  "name": "#15",
+  "description": "MeanMugz are a collection of 5,210 Mugz on the Ethereum Blockchain. The MeanMugz live in a society of outcasts, left only to their individuality.",
+  "image": "ipfs://k51qzi5uqu5djzv55v5p9gq1kz6xr6fwm0xq7mwc654ixjjiwine1g63zygo12/15.png",
+  "edition": 15,
+  "date": 1633998343127,
+  "creator": "Lick Me Labs",
+  "artist": "Wijo",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Hills"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink Geometry"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Jester Hat"
+    },
+    {
+      "trait_type": "Cup",
+      "value": "Cup"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fly Eyes"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sharp Teeth"
+    }
+  ],
+  "compiler": "Wijo Incredible"
 }
